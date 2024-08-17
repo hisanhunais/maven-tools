@@ -25,8 +25,8 @@ import org.apache.commons.httpclient.Header;
 import org.apache.maven.plugin.logging.Log;
 import org.apache.maven.project.MavenProject;
 import org.wso2.carbon.application.mgt.stub.upload.types.carbon.UploadedFileItem;
-import org.wso2.carbon.stub.ApplicationAdminStub;
-import org.wso2.carbon.stub.CarbonAppUploaderStub;
+import org.wso2.carbon.application.mgt.stub.ApplicationAdminStub;
+import org.wso2.carbon.application.mgt.stub.upload.CarbonAppUploaderStub;
 import org.wso2.maven.car.artifact.util.Constants;
 
 import java.io.File;

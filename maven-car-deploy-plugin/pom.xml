@@ -348,17 +348,12 @@
         <dependency>
             <groupId>org.wso2.carbon.commons</groupId>
             <artifactId>org.wso2.carbon.application.mgt.stub</artifactId>
-            <version>4.10.11-SNAPSHOT</version>
+            <version>4.9.12-SNAPSHOT</version>
         </dependency>
 		<dependency>
 			<groupId>com.tsystems.cargo.wso2</groupId>
 			<artifactId>cargo-wso2-container</artifactId>
 			<version>0.7.0</version>
 		</dependency>
-        <dependency>
-            <groupId>org.wso2.maven</groupId>
-            <artifactId>maven-car-deploy-plugin</artifactId>
-            <version>5.2.53-SNAPSHOT</version>
-        </dependency>
     </dependencies>
 </project>
